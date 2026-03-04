@@ -80,11 +80,18 @@ background-color: #333;
 }
 
 #main-nav ul {
-
+list-style-type: none;
+margin: 0;
+padding: 0;
+float: left;
+position: relative;
+left: 50%;
 }
 
 #main-nav ul li {
-
+float: left;
+position: relative;
+right: 50%;
 }
 
 #main-nav ul li a {
