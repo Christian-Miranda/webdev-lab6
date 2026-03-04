@@ -35,8 +35,8 @@ body {
 }
 
 h2 strong {
-
-
+font-size: 2em;
+font-weight: 900;
 }
 
 .image-r {
@@ -72,5 +72,6 @@ h2 strong {
 }
 
 strong {
-  
+font-weight: 900;
+font-size: 48px;
 }
