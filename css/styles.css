@@ -23,7 +23,8 @@ body {
 }
 
 #footer {
-
+background-color: #ccc;
+color: #333;
 }
 
 #content-wrapper {
