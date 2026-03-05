@@ -102,7 +102,10 @@ color: #ccc;
 }
 
 #main-nav ul li a:hover {
-
+padding: 10px 25px;
+display: block;
+text-decoration: none;
+color: #ccc;
 }
 
 #center {
