@@ -109,7 +109,8 @@ color: #ccc;
 }
 
 #center {
-
+width: 960px;
+text-align: center;
 }
 
 strong {
